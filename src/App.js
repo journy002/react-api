@@ -1,12 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 import Users from './Component/Users';
+import UserExample from './Component/UserExample';
 
 
 function App() {
   return (
     <>
-      <Users/>
+      <UserExample/>
     </>
   );
 }
